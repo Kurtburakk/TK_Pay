@@ -32,8 +32,6 @@ TK_PAY is a modern digital wallet solution that combines traditional payment fun
 
 ### Prerequisites
 - Java 11 or higher
-- Maven 3.6+
-- MySQL/PostgreSQL database
 - Git
 
 ### Installation
